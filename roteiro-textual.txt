@@ -1,0 +1,40 @@
+ROTEIRO TEXTUAL DAS INTERAÇÕES - SMARTBUILD AI
+CENA 1: INÍCIO DO PROJETO
+Orquestrador:
+"Bom dia, equipe. Vamos iniciar o projeto do Centro Comunitário Sustentável. Nosso objetivo é criar um espaço funcional, sustentável, viável economicamente, regularizado e esteticamente agradável dentro das restrições orçamentárias e de espaço. Arquiteto-Chefe, por favor, apresente sua visão conceitual inicial."
+
+Arquiteto-Chefe:
+Apresenta conceito detalhado com volume horizontal, dois pavimentos, estrutura mista concreto-madeira, telhado verde, captação de água pluvial e energia solar. Solicita validações técnicas.
+
+CENA 2: VALIDAÇÃO ESTRUTURAL
+Orquestrador:
+"Excelente, Arquiteto-Chefe! Uma proposta conceitual muito bem elaborada. Engenheiro Estrutural, por favor, avalie o conceito arquitetônico apresentado, focando na viabilidade da estrutura mista de concreto e madeira, nos vãos propostos e na capacidade de suportar o telhado verde."
+
+Engenheiro Estrutural:
+"A estrutura mista é viável, mas recomendo sondagem do terreno e cálculo preciso da carga do telhado verde. Sugiro avaliar sistemas industrializados como madeira laminada colada para otimização."
+
+CENA 3: INTEGRAÇÃO DE SUSTENTABILIDADE
+Orquestrador:
+"Obrigado, Engenheiro Estrutural. Análise precisa e focada nos pontos críticos. Especialista em Sustentabilidade, por favor, avalie o conceito inicial sob a perspectiva da sustentabilidade. Comente sobre orientação solar, ventilação natural, materiais propostos e sistemas sustentáveis."
+
+Especialista em Sustentabilidade:
+[Aguardando resposta - espaço para as contribuições do especialista]
+
+CENA 4: DESIGN INTERIOR E ACABAMENTOS
+Orquestrador:
+"Designer de Interiores, com base no conceito arquitetônico e nas considerações estruturais, por favor, desenvolva propostas para iluminação, acabamentos e mobiliário que reforcem a sustentabilidade e criem ambientes acolhedores."
+
+Designer de Interiores:
+[Aguardando resposta - espaço para as contribuições do designer]
+
+PRÓXIMOS PASSOS:
+
+Mediação entre Especialista em Sustentabilidade e Engenheiro sobre viabilidade das soluções ecológicas
+
+Validação orçamentária com o Orçamentista
+
+Análise de conformidade urbana com o Analista de Viabilidade
+
+Consolidação final pelo Agente de Apresentação
+
+Revisão jurídica final pelo Analista Jurídico

@@ -1,7 +1,3 @@
-Aqui está o conteúdo em formato de texto puro:
-
----
-
 Inicie o processo completo de elaboração do projeto utilizando todos os agentes. Atue de acordo com o fluxo cíclico definido no Orquestrador, incluindo detecção de conflitos, conciliação multidisciplinar, reuniões intermediárias e reunião final de síntese. Siga todas as regras estabelecidas.
 
 Parâmetros do projeto:

@@ -1,0 +1,117 @@
+1. INFLUÊNCIA DOS PAPÉIS E PERSONALIDADES NAS DECISÕES FINAIS
+
+Orquestrador:
+- Personalidade formal e focada em prazos garantiu ritmo e direção consistentes
+- Imparcialidade permitiu mediação efetiva entre visões técnicas conflitantes
+- Postura neutra assegurou que todas as perspectivas fossem consideradas
+
+Arquiteto-Chefe:
+- Abordagem visionária mas fundamentada manteve coerência estética após ajustes técnicos
+- Defendeu intenções espaciais enquanto aceitava viabilidades estruturais
+- Sustentabilidade integrada como premissa inegociável desde o conceito inicial
+
+Engenheiro Estrutural:
+- Conservadorismo técnico preveniu riscos estruturais
+- Resultou em substituição de sistemas complexos por soluções mais seguras
+- Troca de vãos muito amplos por modulação otimizada
+
+Designer de Interiores:
+- Foco em ergonomia e acessibilidade resultou em layouts mais funcionais
+- Ajustes em circulação e mobiliário para garantir NBR 9050 e NR-17
+- Balanceamento entre estética, conforto e funcionalidade
+
+Especialista em Sustentabilidade:
+- Abordagem baseada em dados e certificações elevou padrão ambiental
+- Incorporação de ACV (Análise de Ciclo de Vida) nas escolhas de materiais
+- Estratégias passivas priorizadas sobre soluções ativas
+
+Orçamentista:
+- Pragmatismo financeiro forçou otimizações em todos os sistemas
+- Soluções sustentáveis com payback calculado e justificado
+- Guardião dos recursos sem comprometer qualidade essencial
+
+Analista de Viabilidade Urbana:
+- Rigidez legal preveniu retrabalhos desde o início
+- Ajustes em implantação e índices urbanísticos conforme zoneamento
+- Conformidade com plano diretor municipal asegurada
+
+Analista Jurídico:
+- Intransigência legal como filtro final de qualidade
+- Nenhuma inconformidade passou para proposta final
+- Decisão baseada estritamente em legislação
+
+2. CONFLITOS ENTRE AGENTES E SOLUÇÕES DO ORQUESTRADOR
+
+Conflito 1: Sustentabilidade vs. Orçamento
+- Situação: Especialista propôs madeira laminada cruzada (CLT); Orçamentista alertou sobre custo 40% superior
+- Solução: Mediação para solução híbrida - CLT em áreas de impacto visual, concreto em áreas técnicas
+
+Conflito 2: Design vs. Estrutura  
+- Situação: Arquiteto propôs fachada totalmente transparente; Engenheiro alertou sobre estabilidade lateral
+- Solução: Sistema de pórticos espaçados que mantivesse transparência com segurança
+
+Conflito 3: Flexibilidade vs. Conformidade
+- Situação: Designer propôs divisórias móveis; Analista Urbano questionou acessibilidade
+- Solução: Desenvolvimento de sistema de trilhos rebaixados atendendo NBR 9050
+
+Conflito 4: Inovação vs. Normativa
+- Situação: Especialista sugeriu reuso de águas cinzas; Analista Jurídico identificou necessidade de licença
+- Solução: Direcionamento para consulta prévia ao órgão ambiental durante desenvolvimento
+
+3. RISCOS COM AGENTES MAL CONFIGURADOS
+
+Orquestrador mal configurado:
+- Risco: Falta de direcionamento e conflitos não resolvidos
+- Exemplo: Permitir que agentes avancem sem validações cruzadas
+
+Arquiteto-Chefe mal configurado:
+- Risco: Conceito inviável técnica ou financeiramente
+- Exemplo: Propor formas complexas impossíveis de executar
+
+Engenheiro Estrutural mal configurado:
+- Risco: Super/subdimensionamento estrutural
+- Exemplo: Aceitar cargas não calculadas ou ignorar normas
+
+Designer de Interiores mal configurado:
+- Risco: Espaços estéticos mas não funcionais  
+- Exemplo: Ignorar ergonomia ou acessibilidade
+
+Especialista em Sustentabilidade mal configurado:
+- Risco: Greenwashing ou soluções inaplicáveis
+- Exemplo: Sugerir tecnologias não disponíveis localmente
+
+Orçamentista mal configurado:
+- Risco: Estimativas irreais paralisando obra
+- Exemplo: Não considerar custos de fundação ou impostos
+
+Analista de Viabilidade Urbana mal configurado:
+- Risco: Projeto reprovado na prefeitura
+- Exemplo: Ignorar leis de zoneamento ou recuos
+
+Analista Jurídico mal configurado:
+- Risco: Aprovar projeto com vícios legais graves
+- Exemplo: Não identificar necessidade de licenças específicas
+
+4. MELHORIAS PARA COORDENAÇÃO MULTIAGENTE
+
+Melhorias Implementadas:
+- Fluxo iterativo com checkpoints de validação cruzada
+- Glossário técnico compartilhado entre agentes
+- Template de decisões técnicas padronizado
+- Sistema de priorização de conflitos por criticidade
+- Papel do Orquestrador como "Sintetizador Técnico"
+
+Melhorias Propostas:
+- Agente "Memorial Descritivo Integrado"
+- Simulador de Custo-Ciclo de Vida (30 anos)
+- Banco de Dados de Soluções Aprovadas
+- Sistema de Votação Qualificada para impasses
+- Módulo de Pós-Ocupação com feedback simulado
+
+Otimizações de Processo:
+- Pré-reunião técnica bilateral entre agentes interdependentes
+- Matriz de Responsabilidade RACI para decisões técnicas
+- Protocolo de Escalação de Conflitos com níveis definidos
+
+CONCLUSÃO:
+O sistema multiagente evoluiu de experimento conceitual para simulação realista, onde personalidades e expertises técnicas moldam ativamente o resultado final através de processo colaborativo estruturado. A configuração adequada dos prompts mostrou-se crítica para o sucesso da simulação.
